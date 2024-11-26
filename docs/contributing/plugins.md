@@ -125,6 +125,7 @@ Here is a non-exhaustive list of known TLJH plugins:
 - [tljh-shared-directory](https://github.com/kafonek/tljh-shared-directory): TLJH plugin which sets up a _shared directory_
   for the Hub users in `/srv/scratch`.
 - [tljh-db](https://github.com/sinzlab/tljh-db): TLJH plugin for working with mysql databases.
+- [tljh-matlab](https://github.com/mathworks/jupyter-matlab-proxy/tree/main/install_guides/the-littlest-jupyterhub/tljh-matlab): TLJH plugin to install MATLAB&reg; and the [MATLAB Integration for Jupyter](https://github.com/mathworks/jupyter-matlab-proxy).
 
 If you have authored a plugin, please open a PR to add it to this list!
 
